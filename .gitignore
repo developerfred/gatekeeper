@@ -1,5 +1,5 @@
 # Binaries
-gatekeeper
+/gatekeeper
 *.exe
 *.dll
 *.so
