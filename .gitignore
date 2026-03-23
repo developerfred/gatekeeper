@@ -1,0 +1,34 @@
+# Binaries
+gatekeeper
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+github.test
+review.test
+
+# Output of the coverage tool
+"coverage.out"
+
+# Dependency directories
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
